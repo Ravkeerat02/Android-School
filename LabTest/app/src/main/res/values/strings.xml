@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="about_me">Developed by</string>
+    <string name="labeled_color">Labeled Color</string>
+    <string name= "color_list">Colors:</string>
+    <string name="diff_color">Different colors are as follows:</string>
+    <string name="info_about_me">Student Name:Ravkeerat Singh \nStudentID:101344680</string>
+</resources>
