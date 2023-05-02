@@ -8,10 +8,8 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/Ravkeerat02/Android-School.git
+   git clone https://github.com/Ravkeerat02/Android-School.git
 
-sql
-Copy code
 
 2. Open the project in Android Studio.
 
